@@ -1,1 +1,1 @@
-{"ts": 1789225079, "phase": "pretrain", "step": 1010, "loss": 2.3957, "eval": 2.3499, "tps": 11729, "toks_B": 0.298}
+{"ts": 1789225679, "phase": "pretrain", "step": 1040, "loss": 2.479, "eval": 2.3499, "tps": 15589, "toks_B": 0.307}
